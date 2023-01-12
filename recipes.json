@@ -33,19 +33,19 @@
       {
         "amount": 2,
         "unit": "ea",
-        "name": "Leek",
+        "name": "Leeks",
         "department": "Produce"
       },
       {
         "amount": 1,
         "unit": "ea",
-        "name": "Potato",
+        "name": "Potatoes",
         "department": "Produce"
       },
       {
         "amount": 1,
         "unit": "ea",
-        "name": "Onion",
+        "name": "Onions",
         "department": "Produce"
       }
     ],

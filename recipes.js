@@ -6,63 +6,10 @@ xmlhttp.onreadystatechange = function() {
     importedRecipes = JSON.parse(this.responseText);
   }
 };
-[
-  {
-    "recipeName": "Enchiladas",
-    "category": ["Entree"],
-    "priority": 1,
-    "ingredients": [
-      {
-        "amount": 0.5,
-        "unit": "ea",
-        "name": "Onions",
-        "department": "Produce"
-      },
-      {
-        "amount": 0.5,
-        "unit": "cup",
-        "name": "Red Chile Powder",
-        "department": "Spices"
-      },
-      {
-        "amount": 6,
-        "unit": "ea",
-        "name": "Corn Tortillas",
-        "department": "Mexican"
-      }
-    ],
-    "comment": "So easy to make"
-  },
-  {
-    "recipeName": "Leek Soup",
-    "category": ["Soup"],
-    "priority": 1,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": "ea",
-        "name": "Leek",
-        "department": "Produce"
-      },
-      {
-        "amount": 1,
-        "unit": "ea",
-        "name": "Potato",
-        "department": "Produce"
-      },
-      {
-        "amount": 1,
-        "unit": "ea",
-        "name": "Onion",
-        "department": "Produce"
-      }
-    ],
-    "comment": "Recipe not complete"
-  }
-]
+
 xmlhttp.open(
   "GET",
-  "https://github.com/andres-sisneros/recipe-shoppinglist-generator/blob/master/recipes.json",
+  "https://raw.githubusercontent.com/andres-sisneros/recipe-shoppinglist-generator/master/recipes.json",
   false
 );
 
