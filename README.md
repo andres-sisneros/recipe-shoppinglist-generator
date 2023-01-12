@@ -1,7 +1,7 @@
 # recipe-shoppinglist-generator
 
 ## Run
-https://crelder.github.io/recipe-shoppinglist-generator/
+https://andres-sisneros.github.io/recipe-shoppinglist-generator/
 
 Select at least one meal and scroll to the very bottom.
 
