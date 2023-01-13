@@ -96,10 +96,10 @@ var vm = new Vue({
   },
   methods: {
     onCopy: function(e) {
-      alert("Folgende Liste ist in die Zwischenablage kopiert:\n\n" + e.text);
+      alert("The following list is copied to the clipboard:\n\n" + e.text);
     },
     onError: function(e) {
-      alert("Fehler beim Kopieren in die Zwischenablage.");
+      alert("Error copying to clipboard.");
     }
   },
   computed: {
@@ -126,8 +126,8 @@ var vm = new Vue({
     clipboardShoppingList: function() {
       date = new Date();
       return (
-        "Einkaufsliste für den " +
-        date.toLocaleDateString("de-DE", {
+        "Shopping list for " +
+        date.toLocaleDateString("en-EN", {
           weekday: "short",
           year: "numeric",
           month: "long",
@@ -143,8 +143,8 @@ var vm = new Vue({
       .sort( (l, r) => (l.priority >= r.priority ? 1 : -1) )
       date = new Date();
       let output =
-        "Menüliste ab dem " +
-        date.toLocaleDateString("de-DE", {
+        "Menu list from the " +
+        date.toLocaleDateString("en-EN", {
           weekday: "short",
           year: "numeric",
           month: "long",
@@ -170,7 +170,7 @@ var vm = new Vue({
             selectedRecipesSorted[i].ingredients[j].name +
             "\n";
         }
-        output += '\n"' + selectedRecipesSorted[i].comment + ' Priorität ' + selectedRecipesSorted[i].priority + '"' + "\n\n\n";
+        output += '\n"' + selectedRecipesSorted[i].comment + ' Priority ' + selectedRecipesSorted[i].priority + '"' + "\n\n\n";
       }
       return output;
     },

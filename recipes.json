@@ -17,9 +17,177 @@
         "department": "Spices"
       },
       {
+        "amount": 3,
+        "unit": "ea",
+        "name": "Garlic Cloves",
+        "department": "Produce"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "Masa",
+        "department": "Mexican"
+      },
+      {
+        "amount": 1,
+        "unit": "lb",
+        "name": "Pinto Beans",
+        "department": "Beans"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Avacados",
+        "department": "Produce"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "name": "Shredded Cheese",
+        "department": "Dairy"
+      },
+      {
+        "amount": 2,
+        "unit": "ea",
+        "name": "Eggs",
+        "department": "Dairy"
+      },
+      {
         "amount": 6,
         "unit": "ea",
         "name": "Corn Tortillas",
+        "department": "Mexican"
+      }
+    ],
+    "comment": "Enchiladas for 2"
+  },
+  {
+    "recipeName": "Butternut Squash Sabzi",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "ea",
+        "name": "Onions",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Indian Spices",
+        "department": "Spices"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Butternut Squash",
+        "department": "Produce"
+      },
+      {
+        "amount": 10,
+        "unit": "ea",
+        "name": "Cashews",
+        "department": "Nuts"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "Ginger",
+        "department": "Produce"
+      },
+      {
+        "amount": 2,
+        "unit": "ea",
+        "name": "Tomatoes",
+        "department": "Produce"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "Peas",
+        "department": "Frozen"
+      },
+      {
+        "amount": 8,
+        "unit": "ea",
+        "name": "Curry Leaves",
+        "department": "Frozen"
+      }
+    ],
+    "comment": "No comment"
+  },
+  {
+    "recipeName": "Winter Fried Rice",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "Rice",
+        "department": "Rice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "ea",
+        "name": "Cabbage",
+        "department": "Produce"
+      },
+      {
+        "amount": 0.5,
+        "unit": "ea",
+        "name": "Onions",
+        "department": "Produce"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Tamari",
+        "department": "Spices"
+      },
+      {
+        "amount": 6,
+        "unit": "ea",
+        "name": "Carrots",
+        "department": "Produce"
+      }
+    ],
+    "comment": "Use leftover rice for best results"
+  },
+  {
+    "recipeName": "Winter Arepas",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "ea",
+        "name": "Onions",
+        "department": "Produce"
+      },
+      {
+        "amount": 3,
+        "unit": "ea",
+        "name": "Eggs",
+        "department": "Produce"
+      },
+      {
+        "amount": 0.25,
+        "unit": "ea",
+        "name": "Cabbage",
+        "department": "Produce"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "name": "Shredded Cheese",
+        "department": "Dairy"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "Masa",
         "department": "Mexican"
       }
     ],
