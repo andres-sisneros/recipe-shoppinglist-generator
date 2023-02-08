@@ -218,5 +218,288 @@
       }
     ],
     "comment": "Recipe not complete"
+  },
+  {
+    "recipeName": "Hasi Rasa with Cabbage Sabzi",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Chana Dal",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Toor Dal",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 3,
+        "unit": "ea",
+        "name": "Dry red chillies",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 0.75,
+        "unit": "tsp",
+        "name": "Methi seeds",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Grated coconut",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": "Tamarind",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "Jaggery",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Lemon",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "Green chilli",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 5,
+        "unit": "ea",
+        "name": "Curry leaves",
+        "department": "Indian Store"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Green cabbage",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "Peas",
+        "department": "Frozen"
+      }
+    ],
+    "comment": "Already hungry for this"
+  },
+  {
+    "recipeName": "Golumpki/Gwamfki",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "ea",
+        "name": "Potatoes",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Yellow onions",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Vegan beef or soyrizos",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Green cabbages",
+        "department": "Produce"
+      },
+      {
+        "amount": 28,
+        "unit": "oz",
+        "name": "Fire roasted crushed tomatoes",
+        "department": "Canned"
+      },
+      {
+        "amount": 4,
+        "unit": "pods",
+        "name": "Garlic",
+        "department": "Produce"
+      }
+    ],
+    "comment": "Try reducing pressure cook time (30 min with self-release too much)"
+  },
+  {
+    "recipeName": "Winter pasta",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "bag",
+        "name": "Brussel sprouts",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Yellow onions",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Lemons",
+        "department": "Produce"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Parmesan or Pecorino cheeses",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "box",
+        "name": "Chickpea pastas",
+        "department": "Dry goods"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "Parsley",
+        "department": "Produce"
+      },
+      {
+        "amount": 4,
+        "unit": "pods",
+        "name": "Garlic",
+        "department": "Produce"
+      }
+    ],
+    "comment": "CITRUS SEASON"
+  },
+  {
+    "recipeName": "Beetroot sabzi with sambar",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "ea",
+        "name": "Beetroots",
+        "department": "Produce"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "Grated coconut",
+        "department": "Frozen produce"
+      },
+      {
+        "amount": 1,
+        "unit": "bag",
+        "name": "Sambar vegetables (fresh turnips or frozen mixed veg. bag)",
+        "department": "Produce"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "Toor dal",
+        "department": "Indian store"
+      }
+    ],
+    "comment": "Comfort food, good to have yogurt rice ready"
+  },
+  {
+    "recipeName": "Sweet potatoes and sausage",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "ea",
+        "name": "Sweet potatoes",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "package",
+        "name": "Vegan sausages",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Anaheim chillies",
+        "department": "Produce"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "name": "Green chillies",
+        "department": "Canned"
+      }
+    ],
+    "comment": "Easy peasy!"
+  },
+  {
+    "recipeName": "Parsnoup",
+    "category": ["Entree"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "ea",
+        "name": "Leeks",
+        "department": "Produce"
+      },
+      {
+        "amount": 4,
+        "unit": "ea",
+        "name": "Parsnips",
+        "department": "Produce"
+      },
+      {
+        "amount": 1,
+        "unit": "box",
+        "name": "Veggie stock",
+        "department": "Dry goods"
+      },
+      {
+        "amount": 1,
+        "unit": "cups",
+        "name": "Milk",
+        "department": "Dairy"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "name": "Butter",
+        "department": "Dairy"
+      },
+      {
+        "amount": 4,
+        "unit": "pods",
+        "name": "Garlic",
+        "department": "Produce"
+      }
+    ],
+    "comment": "Easy peasy!"
   }
 ]
+
